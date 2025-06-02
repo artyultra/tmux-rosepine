@@ -67,7 +67,7 @@ main() {
 
   elif [[ $theme == dawn ]]; then
 
-    thm_base="#faf4ed"
+    thm_base="#191724"
     thm_surface="#fffaf3"
     thm_overlay="#f2e9e1"
     thm_muted="#9893a5"
