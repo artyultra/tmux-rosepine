@@ -92,7 +92,7 @@ main() {
     thm_subtle="#908caa"
     thm_text="#e0def4"
     thm_love="#eb6f92"
-    thm_gold="#d91c55"
+    thm_gold="#f5336d"
     thm_rose="#ea9a97"
     thm_pine="#3e8fb0"
     thm_foam="#9ccfd8"
